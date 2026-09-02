@@ -89,7 +89,7 @@ formal offline policy evaluation;
 constrained portfolio reinforcement learning;
 state-transfer learning across stocks.
 
-Medium article:
+Medium article: https://medium.com/gitconnected/adaptive-capital-allocation-in-changing-markets-269d85f18599
 
 License
 
