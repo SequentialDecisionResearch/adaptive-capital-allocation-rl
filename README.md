@@ -1,4 +1,4 @@
-# Adaptive Capital Allocation with Reinforcement Learning
+# Stocks as Time-Varying Investment States: Cross-Ticker Similarity, Dynamic Allocation, and the Limits of Predictive Transfer
 
 A research demo accompanying the Medium article:
 
